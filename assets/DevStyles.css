@@ -1,0 +1,100 @@
+
+    .orange-section {
+      position: relative;
+      display: flex;
+      align-items: center;
+      margin: 10px 0;
+    }
+
+    .textorange {
+      margin-left: 4px;
+      color: black;
+      font-size: 15px;
+    }
+
+    .orange-ball {
+      display: inline-block;
+      position: relative;
+      height: 25px;
+      width: 25px;
+      margin-left: -5px;
+      margin-top: 2px;
+    }
+
+    .orange-wave-icon:after,
+    .orange-wave-icon:before {
+      width: 9px;
+      height: 9px;
+      background: #FF0000; /* RED COLOR */
+      border-radius: 50%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      content: "";
+      margin: 8px;
+    }
+
+    .orange-wave-icon:before {
+      animation: pulse 2s linear infinite;
+    }
+
+    @keyframes pulse {
+      0% {
+        opacity: 0.5;
+      }
+      100% {
+        transform: scale(2.5);
+        opacity: 0;
+      }
+    }
+
+    .textorange strong {
+      color: black;
+    }
+  
+
+.review-content a {
+  display: flex;
+  flex-wrap: wrap;
+  text-decoration: none;
+  align-items: center;
+  -webkit-transition: opacity .3s ease, background .3s ease, border .3s ease, box-shadow .3s ease;
+  -moz-transition: opacity .3s ease, background .3s ease, border .3s ease, box-shadow .3s ease;
+  -ms-transition: opacity .3s ease, background .3s ease, border .3s ease, box-shadow .3s ease;
+  -o-transition: opacity .3s ease, background .3s ease, border .3s ease, box-shadow .3s ease;
+  transition: opacity .3s ease, background .3s ease, border .3s ease, box-shadow .3s ease;
+}
+
+.review-content a svg {
+  height: 21px !important;
+  width: 120px !important;
+  position: unset;
+}
+
+.review-content a span {
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 16px;
+  color: #444;
+}
+
+.product-service-item {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    justify-items: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.product-services-grid {
+    display: grid;
+    grid-gap: 2rem;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+
+@media(max-width: 767px){
+    .product-services-grid {
+        grid-template-columns: repeat(1,1fr);
+    }
+}
