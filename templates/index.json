@@ -210,7 +210,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "NEW ARRIVALS",
-        "collection": "blazers",
+        "collection": "jackets",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
@@ -280,7 +280,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Premium Men's Shirts",
-        "collection": "shirts-blouses-polos",
+        "collection": "shirts",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
