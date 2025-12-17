@@ -824,7 +824,7 @@
         "image_width": 700,
         "image_link": "",
         "image_position": "left",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "color_scheme": "default"
       }
     },
