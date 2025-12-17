@@ -820,6 +820,7 @@
       ],
       "name": "Image with text",
       "settings": {
+        "image": "shopify://shop_images/imgi_25_a6f19ce0-4389-4b68-90c2-4d56e12883c0.png",
         "image_width": 700,
         "image_link": "",
         "image_position": "left",
