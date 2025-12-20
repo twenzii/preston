@@ -208,7 +208,7 @@
     "featured_collection_UtUJbc": {
       "type": "featured-collection",
       "settings": {
-        "title": "NEW ARRIVALS",
+        "title": "NEUE ANKÜNFTE",
         "collection": "jackets",
         "show_vendor": false,
         "enable_carousel": true,
@@ -235,14 +235,14 @@
         "heading_QCXGNp": {
           "type": "heading",
           "settings": {
-            "title": "Winter Sale Ends Today",
+            "title": "Der Winterschlussverkauf endet heute",
             "use_h1": false
           }
         },
         "text_mxctMK": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>50% OFF</strong></p>",
+            "text": "<p><strong>80% OFF</strong></p>",
             "enlarge_text": true
           }
         },
@@ -278,7 +278,7 @@
     "featured_collection_kBxwMM": {
       "type": "featured-collection",
       "settings": {
-        "title": "Premium Men's Shirts",
+        "title": "Hochwertige Herrenhemden",
         "collection": "shirts",
         "show_vendor": false,
         "enable_carousel": true,
@@ -295,14 +295,14 @@
         "heading_hHeb9w": {
           "type": "heading",
           "settings": {
-            "title": "Complete your outfit",
+            "title": "Vervollständigen Sie Ihr Outfit",
             "use_h1": false
           }
         },
         "text_8DBrMb": {
           "type": "text",
           "settings": {
-            "text": "<p>Crafted for comfort, worn with confidence</p>",
+            "text": "<p>Für Komfort entwickelt, mit Selbstvertrauen getragen</p>",
             "enlarge_text": false
           }
         }
@@ -321,7 +321,7 @@
     "featured_collection_KiEfnU": {
       "type": "featured-collection",
       "settings": {
-        "title": "Luxury Loafers",
+        "title": "Luxus Loafers",
         "collection": "loafers",
         "show_vendor": false,
         "enable_carousel": true,
@@ -339,8 +339,9 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Free Shipping",
-            "text": "<p>All orders are processed within 1-3 days and delivered with Royal Mail.</p>",
+            "image": "shopify://shop_images/download-round-dhl-express-deliv-removebg-preview.png",
+            "title": "Kostenloser Versand",
+            "text": "<p>Alle Bestellungen werden innerhalb von 1-3 Tagen bearbeitet und mit DHL geliefert.</p>",
             "button_label": "",
             "link": ""
           }
@@ -349,8 +350,9 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Money-Back Guarantee",
-            "text": "<p>Not satisfied? Get your money back! You have 30 days after receiving your order to return or exchange it.</p>",
+            "image": "shopify://shop_images/money-back.webp",
+            "title": "Geld-zurück-Garantie",
+            "text": "<p>Nicht zufrieden? Sie erhalten Ihr Geld zurück! Sie haben nach Erhalt Ihrer Bestellung 30 Tage Zeit, diese zurückzugeben oder umzutauschen.</p>",
             "button_label": "",
             "link": ""
           }
@@ -359,8 +361,9 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Trusted UK Brand",
-            "text": "<p>A reliable UK-based brand since 1998</p>",
+            "image": "shopify://shop_images/1513px-Flag_map_of_Germany.svg-removebg-preview.png",
+            "title": "Vertrauenswürdige deutsche Marke",
+            "text": "<p>Eine zuverlässige deutsche Marke seit 1998</p>",
             "button_label": "",
             "link": ""
           }

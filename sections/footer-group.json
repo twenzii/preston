@@ -66,8 +66,8 @@
         "text_MMbbeH": {
           "type": "text",
           "settings": {
-            "title": "CUSTOMER SERVICE",
-            "text": "<p><strong>Opening hours</strong>:<br/>Mon to Fri: 8:00 AM - 8:00 PM<br/>Sat-Sun: 8:00 AM - 5:00 PM<br/>E-mail: support@preston-ldn.com</p>",
+            "title": "KUNDENSERVICE",
+            "text": "<p><strong>Öffnungszeiten:</strong><br/>Montag bis Freitag: 8:00 bis 20:00 Uhr<br/>Samstag und Sonntag: 8:00 bis 17:00 Uhr<br/>E-mail: support@luneracollective.com</p>",
             "image_width": 100,
             "show_social_icons": true,
             "soc_icons_large": false,
