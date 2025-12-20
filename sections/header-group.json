@@ -17,7 +17,7 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "<strong>Winter Sale | 50% off!</strong>",
+            "text": "Winter Sale | 80 % Rabatt!",
             "show_countdown": false,
             "hide_on_end": true,
             "end_date": "",
@@ -48,7 +48,6 @@
     "header": {
       "type": "header",
       "settings": {
-        "logo": "shopify://shop_images/Gemini_Generated_Image_s8ok2ls8ok2ls8ok.png",
         "logo_img_width_int": 150,
         "mobile_logo_img_width_int": 100,
         "logo_h1": true,
