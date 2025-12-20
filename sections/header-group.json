@@ -17,7 +17,7 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "Winter Sale | 80 % Rabatt!",
+            "text": "Winterschlussverkauf | 80 % Rabatt!",
             "show_countdown": false,
             "hide_on_end": true,
             "end_date": "",
