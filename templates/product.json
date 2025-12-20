@@ -419,28 +419,9 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "The poloshirt is comfortable, flattering, and feels premium. I’ll definitely be shopping with Preston New York again.",
+            "testimonial": "The poloshirt is comfortable, flattering, and feels premium. I’ll definitely be shopping with Preston London again.",
             "author": "Willson P.",
-            "image_caption": "",
-            "link": ""
-          }
-        },
-        "testimonial_CmBRiH": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "testimonial": "I purchased t-shirt from Preston New York and was impressed by the quality and attention to detail. It feels like something that will last for years.",
-            "author": "James H.",
-            "image_caption": "",
-            "link": ""
-          }
-        },
-        "testimonial_LgXYNE": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "testimonial": "I ordered a Preston New York blazer for work and it is beautifully. The material feels high-end and the cut is exactly as shown on the website. I received several compliments the first day I wore it.",
-            "author": "Joe D.",
+            "image": "shopify://shop_images/imgi_15_oM5ZHjI_SQuFbGWDHKIltQ.webp",
             "image_caption": "",
             "link": ""
           }
@@ -451,9 +432,7 @@
         "testimonial_EcwTeA",
         "testimonial_mxdJBK",
         "testimonial_Efjwt3",
-        "testimonial_EybBLx",
-        "testimonial_CmBRiH",
-        "testimonial_LgXYNE"
+        "testimonial_EybBLx"
       ],
       "name": "Testimonials",
       "settings": {
