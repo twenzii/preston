@@ -48,8 +48,9 @@
     "header": {
       "type": "header",
       "settings": {
-        "logo_img_width_int": 150,
-        "mobile_logo_img_width_int": 100,
+        "logo": "shopify://shop_images/Jouw_alineatekst.png",
+        "logo_img_width_int": 290,
+        "mobile_logo_img_width_int": 165,
         "logo_h1": true,
         "enable_sticky": true,
         "enable_transparent": false,
