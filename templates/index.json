@@ -82,7 +82,7 @@
     "16359278676808bea5": {
       "type": "featured-collection",
       "settings": {
-        "title": "OUR BESTSELLERS",
+        "title": "UNSERE BESTSELLER",
         "collection": "sweaters-hoodies",
         "show_vendor": false,
         "enable_carousel": true,
@@ -99,7 +99,7 @@
         "1635927863703110df-1": {
           "type": "heading",
           "settings": {
-            "title": "\"Because confidence is the best accessory.\"",
+            "title": "„Weil Selbstvertrauen das beste Accessoire ist.“",
             "use_h1": false
           }
         },
