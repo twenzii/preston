@@ -15,7 +15,7 @@
         "trustpilot_rating_zbRJpj": {
           "type": "trustpilot-rating",
           "settings": {
-            "text": "4.7 (843 reviews)"
+            "text": "4,7 (843 Bewertungen)"
           }
         },
         "title": {
@@ -24,17 +24,9 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_tax_and_shipping": false,
             "enable_product_reviews_by_price": true
-          }
-        },
-        "divider": {
-          "type": "divider",
-          "disabled": true,
-          "settings": {
-            "show_in_quickbuy": false
           }
         },
         "divider_TWXdcY": {
@@ -54,7 +46,7 @@
             "uspgap": 10,
             "usp-img": "shopify://shop_images/shipping_1.webp",
             "uspimgsize": 16,
-            "usp-text": "Free shipping (Today Only)",
+            "usp-text": "Kostenloser Versand (nur heute)",
             "uspclr": "#000000",
             "usptxtsize": 14
           }
@@ -70,7 +62,7 @@
             "uspgap": 10,
             "usp-img": "shopify://shop_images/Return_1_c0ff8b10-7f83-4acb-9dc2-6521f1719f22.webp",
             "uspimgsize": 16,
-            "usp-text": "30-day money back guarantee",
+            "usp-text": "30-Tage-Geld-zurück-Garantie",
             "uspclr": "#000000",
             "usptxtsize": 14
           }
@@ -86,7 +78,7 @@
             "uspgap": 10,
             "usp-img": "shopify://shop_images/Return_1.webp",
             "uspimgsize": 16,
-            "usp-text": "Hassle-free exchanges",
+            "usp-text": "Problemloser Umtausch",
             "uspclr": "#000000",
             "usptxtsize": 14
           }
@@ -175,7 +167,6 @@
         "trustpilot_rating_zbRJpj",
         "title",
         "price",
-        "divider",
         "divider_TWXdcY",
         "usps_bkq6XD",
         "usps_33LAM7",
@@ -217,7 +208,6 @@
         "quality_mqh9an": {
           "type": "Quality",
           "settings": {
-            "icon": "shopify://shop_images/Maximum_flexibility.webp",
             "heading": "Maximum flexibility",
             "content": "Designed with stretchy fabric for a comfortable fit and unrestricted movement."
           }
@@ -225,7 +215,6 @@
         "quality_abUeUj": {
           "type": "Quality",
           "settings": {
-            "icon": "shopify://shop_images/2.gif",
             "heading": "Wrinkle-Free",
             "content": "No need to iron: machine wash, hang to dry, and you're good to go."
           }
@@ -233,7 +222,6 @@
         "quality_E8b3Pd": {
           "type": "Quality",
           "settings": {
-            "icon": "shopify://shop_images/3.webp",
             "heading": "Breathable and Quick-Drying",
             "content": "Wicks away moisture for a fresh feeling and dry comfort."
           }
@@ -241,7 +229,6 @@
         "quality_wVytNF": {
           "type": "Quality",
           "settings": {
-            "icon": "shopify://shop_images/4.gif",
             "heading": "No Odor",
             "content": "Neutralizes odor-causing bacteria to keep you fresh and confident, even when you sweat."
           }
@@ -377,7 +364,6 @@
             "star_rating": 5,
             "testimonial": "I usually struggle to find pieces that fit just right, but Preston London nailed it. The jeans are the perfect shape and the fabric feels durable yet soft. Highly recommend.",
             "author": "Laurence M.",
-            "image": "shopify://shop_images/imgi_14_nano-banana-pro-4d2d3eae1dfccd63fea7dcd9fcdc7774.png",
             "image_caption": "",
             "link": ""
           }
@@ -388,7 +374,6 @@
             "star_rating": 5,
             "testimonial": "The quality and service is unmatched, i will come back for sure!",
             "author": "Harry C.",
-            "image": "shopify://shop_images/imgi_17_nano-banana-pro-3160136097778a5ec523ec8e37c05ee8.png",
             "image_caption": "",
             "link": ""
           }
@@ -399,7 +384,6 @@
             "star_rating": 5,
             "testimonial": "The shirt I ordered is both sharp and comfortable. The fabric breathes well and the fit is spot-on. It’s now one of my go-to pieces for both business and casual wear.",
             "author": "Alex H.",
-            "image": "shopify://shop_images/imgi_13_nano-banana-pro-8af7f1263fd108f827136a2adeb8a2ca.png",
             "image_caption": "",
             "link": ""
           }
@@ -410,7 +394,6 @@
             "star_rating": 5,
             "testimonial": "My favorite shop to go to!",
             "author": "Harry",
-            "image": "shopify://shop_images/imgi_18_jqLvkgHgT5KSGnFhdkydiQ.webp",
             "image_caption": "",
             "link": ""
           }
@@ -421,7 +404,6 @@
             "star_rating": 5,
             "testimonial": "The poloshirt is comfortable, flattering, and feels premium. I’ll definitely be shopping with Preston London again.",
             "author": "Willson P.",
-            "image": "shopify://shop_images/imgi_15_oM5ZHjI_SQuFbGWDHKIltQ.webp",
             "image_caption": "",
             "link": ""
           }
@@ -454,7 +436,6 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/download_10.png",
             "title": "Free Shipping",
             "text": "<p>All orders are processed within 1-3 days and delivered with USPS.</p>",
             "button_label": "",
@@ -465,7 +446,6 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/money-back.avif",
             "title": "Money-Back Guarantee",
             "text": "<p>Not satisfied? Get your money back! You have 30 days after receiving your order to return or exchange it.</p>",
             "button_label": "",
@@ -476,7 +456,6 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/download_11.png",
             "title": "Trusted UK Brand",
             "text": "<p>A reliable UK-based brand since 1998</p>",
             "button_label": "",
@@ -803,7 +782,6 @@
       ],
       "name": "Image with text",
       "settings": {
-        "image": "shopify://shop_images/imgi_25_a6f19ce0-4389-4b68-90c2-4d56e12883c0.png",
         "image_width": 700,
         "image_link": "",
         "image_position": "left",
