@@ -84,8 +84,8 @@
         "text_tTaGeN": {
           "type": "text",
           "settings": {
-            "title": "ABOUT US",
-            "text": "<p>Era collective was founded in 1998 in the heart of Berlin. Today, it is a globally recognized clothing brand known for its timeless design and exceptional quality.</p><ul><li>26 Jahre Erfahrung</li><li>30-Tage-Geld-zurück-Garantie</li><li>Kundensupport rund um die Uhr</li></ul>",
+            "title": "ÜBER UNS",
+            "text": "<p>Era Collective wurde 1998 im Herzen Berlins gegründet. Heute ist es eine weltweit anerkannte Bekleidungsmarke, die für ihr zeitloses Design und ihre außergewöhnliche Qualität bekannt ist.</p><ul><li>26 Jahre Erfahrung</li><li>30-Tage-Geld-zurück-Garantie</li><li>Kundensupport rund um die Uhr</li></ul>",
             "image_width": 100,
             "show_social_icons": true,
             "soc_icons_large": false,
