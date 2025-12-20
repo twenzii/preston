@@ -438,44 +438,47 @@
         "autoplay_speed": 5
       }
     },
-    "multi_column_Ng7eFH": {
+    "multi_column_gGQtnr": {
       "type": "multi-column",
       "blocks": {
-        "text_block_tNRyAW": {
+        "text_block_6EGEei": {
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Free Shipping",
-            "text": "<p>All orders are processed within 1-3 days and delivered with USPS.</p>",
+            "image": "shopify://shop_images/download-round-dhl-express-deliv-removebg-preview.png",
+            "title": "Kostenloser Versand",
+            "text": "<p>Alle Bestellungen werden innerhalb von 1-3 Tagen bearbeitet und mit DHL geliefert.</p>",
             "button_label": "",
             "link": ""
           }
         },
-        "text_block_kfJkbr": {
+        "text_block_AMp6Ld": {
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Money-Back Guarantee",
-            "text": "<p>Not satisfied? Get your money back! You have 30 days after receiving your order to return or exchange it.</p>",
+            "image": "shopify://shop_images/money-back.webp",
+            "title": "Geld-zurück-Garantie",
+            "text": "<p>Nicht zufrieden? Sie erhalten Ihr Geld zurück! Sie haben nach Erhalt Ihrer Bestellung 30 Tage Zeit, diese zurückzugeben oder umzutauschen.</p>",
             "button_label": "",
             "link": ""
           }
         },
-        "text_block_e7Rz9G": {
+        "text_block_9VGG7x": {
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Trusted UK Brand",
-            "text": "<p>A reliable UK-based brand since 1998</p>",
+            "image": "shopify://shop_images/1513px-Flag_map_of_Germany.svg-removebg-preview.png",
+            "title": "Vertrauenswürdige deutsche Marke",
+            "text": "<p>Eine zuverlässige deutsche Marke seit 1998</p>",
             "button_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "text_block_tNRyAW",
-        "text_block_kfJkbr",
-        "text_block_e7Rz9G"
+        "text_block_6EGEei",
+        "text_block_AMp6Ld",
+        "text_block_9VGG7x"
       ],
       "name": "Multi-column",
       "settings": {
@@ -773,14 +776,14 @@
         "heading_Ke37jr": {
           "type": "heading",
           "settings": {
-            "title": "Money-Back Guarantee",
+            "title": "Geld-zurück-Garantie",
             "use_h1": false
           }
         },
         "text_EeB3Ka": {
           "type": "text",
           "settings": {
-            "text": "<p>We love our products and we're sure you'll love them as much as we do! That's why we offer a risk-free 30-day money-back guarantee. If you are not satisfied with our product, we will give you your money back.</p>",
+            "text": "<p>Wir lieben unsere Produkte und sind sicher, dass Sie sie genauso lieben werden wie wir! Deshalb bieten wir Ihnen eine risikofreie 30-Tage-Geld-zurück-Garantie. Wenn Sie mit unserem Produkt nicht zufrieden sind, erhalten Sie Ihr Geld zurück.</p>",
             "enlarge_text": false
           }
         }
@@ -791,6 +794,7 @@
       ],
       "name": "Image with text",
       "settings": {
+        "image": "shopify://shop_images/image_060075d3-e649-48db-a528-d3cd1c19780d.png",
         "image_width": 700,
         "image_link": "",
         "image_position": "left",
@@ -804,8 +808,8 @@
         "question_nCwe8V": {
           "type": "question",
           "settings": {
-            "title": "What are the shipping costs? Do I have to pay customs or import fees?",
-            "answer": "<p>All orders are shipped free of charge (Today Only) and there's no minimum order value required.<br/><br/>With us, you’ll never have to pay any additional fees after placing your order.</p>"
+            "title": "Wie hoch sind die Versandkosten? Muss ich Zoll- oder Einfuhrgebühren bezahlen?",
+            "answer": "<p>Alle Bestellungen werden kostenlos versandt (nur heute) und es gibt keinen Mindestbestellwert.<br/><br/>Bei uns fallen nach der Bestellung keine zusätzlichen Gebühren an.</p>"
           }
         },
         "question_X8NNKd": {
@@ -849,7 +853,7 @@
     "slideshow_3in3te",
     "rich_text_73UHkK",
     "testimonials_PDHr6m",
-    "multi_column_Ng7eFH",
+    "multi_column_gGQtnr",
     "slideshow_Pg69VR",
     "ss_scrolling_images_CJD9VW",
     "related-products",
