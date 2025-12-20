@@ -15,7 +15,8 @@
         "16359276425da8ce46-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sichern_Sie_sich_unsere_grossten_Rabatte_des_Jahres_auf_ausgewahlte_Artikel..png",
+            "image": "shopify://shop_images/imgi_2_OFF_2.png",
+            "mobile_image": "shopify://shop_images/imgi_2_OFF_2.png",
             "slide_link": "",
             "subheading": "",
             "title": "",
@@ -175,7 +176,6 @@
         "16359279164ff7d3f3-0": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/EDoFesRgR02gSeEFfpa3Lw.webp",
             "enlarge_media": false,
             "subheading": "",
             "title": "",
@@ -339,7 +339,6 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/download-round-dhl-express-deliv-removebg-preview.png",
             "title": "Kostenloser Versand",
             "text": "<p>Alle Bestellungen werden innerhalb von 1-3 Tagen bearbeitet und mit DHL geliefert.</p>",
             "button_label": "",
@@ -350,7 +349,6 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/money-back.webp",
             "title": "Geld-zurück-Garantie",
             "text": "<p>Nicht zufrieden? Sie erhalten Ihr Geld zurück! Sie haben nach Erhalt Ihrer Bestellung 30 Tage Zeit, diese zurückzugeben oder umzutauschen.</p>",
             "button_label": "",
@@ -361,7 +359,6 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/1513px-Flag_map_of_Germany.svg-removebg-preview.png",
             "title": "Vertrauenswürdige deutsche Marke",
             "text": "<p>Eine zuverlässige deutsche Marke seit 1998</p>",
             "button_label": "",
