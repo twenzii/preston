@@ -366,8 +366,9 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "I usually struggle to find pieces that fit just right, but Preston London nailed it. The jeans are the perfect shape and the fabric feels durable yet soft. Highly recommend.",
+            "testimonial": "Normalerweise habe ich Schwierigkeiten, Kleidungsstücke zu finden, die mir perfekt passen, aber Era Collective hat es geschafft. Die Jeans hat die perfekte Passform und der Stoff fühlt sich strapazierfähig und dennoch weich an. Sehr empfehlenswert.",
             "author": "Laurence M.",
+            "image": "shopify://shop_images/Gemini_Generated_Image_ou9w4uou9w4uou9w.png",
             "image_caption": "",
             "link": ""
           }
@@ -378,6 +379,7 @@
             "star_rating": 5,
             "testimonial": "The quality and service is unmatched, i will come back for sure!",
             "author": "Harry C.",
+            "image": "shopify://shop_images/ERA_COLLECTIVE.png",
             "image_caption": "",
             "link": ""
           }
@@ -386,8 +388,9 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "The shirt I ordered is both sharp and comfortable. The fabric breathes well and the fit is spot-on. It’s now one of my go-to pieces for both business and casual wear.",
+            "testimonial": "Das Hemd, das ich bestellt habe, ist sowohl schick als auch bequem. Der Stoff ist atmungsaktiv und die Passform ist perfekt. Es gehört jetzt zu meinen Lieblingsstücken, sowohl für geschäftliche als auch für Freizeitkleidung.",
             "author": "Alex H.",
+            "image": "shopify://shop_images/ERA_COLLECTIVE_1.png",
             "image_caption": "",
             "link": ""
           }
@@ -396,8 +399,9 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "My favorite shop to go to!",
+            "testimonial": "Mein Lieblingsgeschäft!",
             "author": "Harry",
+            "image": "shopify://shop_images/ERA_COLLECTIVE_2.png",
             "image_caption": "",
             "link": ""
           }
@@ -406,8 +410,9 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "The poloshirt is comfortable, flattering, and feels premium. I’ll definitely be shopping with Preston London again.",
+            "testimonial": "Das Poloshirt ist bequem, schmeichelt der Figur und fühlt sich hochwertig an. Ich werde auf jeden Fall wieder bei Preston London einkaufen.",
             "author": "Willson P.",
+            "image": "shopify://shop_images/ERA_COLLECTIVE_3.png",
             "image_caption": "",
             "link": ""
           }
