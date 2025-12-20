@@ -83,7 +83,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "UNSERE BESTSELLER",
-        "collection": "sweaters-hoodies",
+        "collection": "vintage-collection",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
