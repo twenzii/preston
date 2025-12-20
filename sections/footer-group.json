@@ -85,7 +85,7 @@
           "type": "text",
           "settings": {
             "title": "ABOUT US",
-            "text": "<p>Preston London was founded in 1998 in the heart of London. Today, it is a globally recognized clothing brand known for its timeless design and exceptional quality.</p><ul><li>26 years of experience</li><li>30-day money back guarantee</li><li>24/7 Customer Support</li></ul>",
+            "text": "<p>Era collective was founded in 1998 in the heart of Berlin. Today, it is a globally recognized clothing brand known for its timeless design and exceptional quality.</p><ul><li>26 Jahre Erfahrung</li><li>30-Tage-Geld-zurück-Garantie</li><li>Kundensupport rund um die Uhr</li></ul>",
             "image_width": 100,
             "show_social_icons": true,
             "soc_icons_large": false,
@@ -96,7 +96,7 @@
           "type": "newsletter",
           "settings": {
             "title": "Newsletter",
-            "text": "<p>Be the first to know about exclusive offers and new arrivals!</p>",
+            "text": "<p>Seien Sie der Erste, der von exklusiven Angeboten und Neuheiten erfährt!</p>",
             "button_style": "secondary",
             "show_social_icons": false,
             "soc_icons_large": false
