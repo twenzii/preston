@@ -112,16 +112,16 @@
         "note_JrVj6k": {
           "type": "note",
           "settings": {
-            "heading": "SALE ENDS TODAY",
-            "content": "50% off storewide until tonight"
+            "heading": "Der Verkauf endet heute.",
+            "content": "Bis heute Abend 80% Rabatt auf das gesamte Sortiment"
           }
         },
         "accordion_zTUgVE": {
           "type": "accordion",
           "settings": {
-            "title": "Description",
+            "title": "Beschreibung",
             "icon": "",
-            "content": "<p>Collapsible tab content</p>",
+            "content": "<p>Zusammenklappbarer Registerkarteninhalt</p>",
             "page": "",
             "custom_liquid": "{{ product.description }}",
             "open": false,
@@ -131,9 +131,9 @@
         "accordion_GcC3hx": {
           "type": "accordion",
           "settings": {
-            "title": "Specifications",
+            "title": "Spezifikationen",
             "icon": "",
-            "content": "<ul><li><strong>Design:</strong> Casual, modern cut</li><li><strong>Sleeve Length:</strong> Long sleeves</li><li><strong>Fit:</strong> Relaxed</li><li><strong>Closure:</strong> Button-down</li><li><strong>Details:</strong> Rounded hem, stylish button accents</li><li><strong>Pattern:</strong> Solid color</li><li><strong>Occasion:</strong> Work, casual outings, evening wear</li><li><strong>Sizes:</strong> S-3XL</li></ul>",
+            "content": "<ul><li><strong>Design:</strong> Lässiger, moderner Schnitt</li><li><strong>Ärmellänge: </strong>Lange Ärmel</li><li><strong>Passform:</strong> Locker</li><li><strong>Verschluss: </strong>Knopfleiste</li><li><strong>Details:</strong> Abgerundeter Saum, stilvolle Knopfakzente</li><li><strong>Muster: </strong>Einfarbig</li><li><strong>Anlass:</strong> Arbeit, Freizeit, Abendgarderobe</li><li><strong>Größen: </strong>S-3XL</li></ul>",
             "page": "",
             "custom_liquid": "",
             "open": false,
@@ -143,7 +143,7 @@
         "accordion_fqEQny": {
           "type": "accordion",
           "settings": {
-            "title": "Fit",
+            "title": "Passform",
             "icon": "",
             "content": "",
             "page": "",
@@ -208,29 +208,33 @@
         "quality_mqh9an": {
           "type": "Quality",
           "settings": {
-            "heading": "Maximum flexibility",
-            "content": "Designed with stretchy fabric for a comfortable fit and unrestricted movement."
+            "icon": "shopify://shop_images/Maximum_flexibility.webp",
+            "heading": "Maximale Flexibilität",
+            "content": "Aus dehnbarem Stoff für eine bequeme Passform und uneingeschränkte Bewegungsfreiheit."
           }
         },
         "quality_abUeUj": {
           "type": "Quality",
           "settings": {
-            "heading": "Wrinkle-Free",
-            "content": "No need to iron: machine wash, hang to dry, and you're good to go."
+            "icon": "shopify://shop_images/2.gif",
+            "heading": "Faltenfrei",
+            "content": "Bügeln nicht erforderlich: einfach in der Maschine waschen, zum Trocknen aufhängen und fertig."
           }
         },
         "quality_E8b3Pd": {
           "type": "Quality",
           "settings": {
-            "heading": "Breathable and Quick-Drying",
-            "content": "Wicks away moisture for a fresh feeling and dry comfort."
+            "icon": "shopify://shop_images/3.webp",
+            "heading": "Atmungsaktiv und schnell trocknend",
+            "content": "Leitet Feuchtigkeit ab und sorgt für ein frisches Gefühl und trockenen Tragekomfort."
           }
         },
         "quality_wVytNF": {
           "type": "Quality",
           "settings": {
-            "heading": "No Odor",
-            "content": "Neutralizes odor-causing bacteria to keep you fresh and confident, even when you sweat."
+            "icon": "shopify://shop_images/4.gif",
+            "heading": "Geruchsneutral",
+            "content": "Neutralisiert geruchsverursachende Bakterien, damit Sie sich auch beim Schwitzen frisch und sicher fühlen."
           }
         }
       },
