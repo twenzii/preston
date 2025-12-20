@@ -382,12 +382,24 @@
             "link": ""
           }
         },
+        "testimonial_EcwTeA": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "The quality and service is unmatched, i will come back for sure!",
+            "author": "Harry C.",
+            "image": "shopify://shop_images/imgi_17_nano-banana-pro-3160136097778a5ec523ec8e37c05ee8.png",
+            "image_caption": "",
+            "link": ""
+          }
+        },
         "testimonial_mxdJBK": {
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
             "testimonial": "The shirt I ordered is both sharp and comfortable. The fabric breathes well and the fit is spot-on. It’s now one of my go-to pieces for both business and casual wear.",
             "author": "Alex H.",
+            "image": "shopify://shop_images/imgi_13_nano-banana-pro-8af7f1263fd108f827136a2adeb8a2ca.png",
             "image_caption": "",
             "link": ""
           }
@@ -398,6 +410,7 @@
             "star_rating": 5,
             "testimonial": "My favorite shop to go to!",
             "author": "Harry",
+            "image": "shopify://shop_images/imgi_18_jqLvkgHgT5KSGnFhdkydiQ.webp",
             "image_caption": "",
             "link": ""
           }
@@ -422,17 +435,6 @@
             "link": ""
           }
         },
-        "testimonial_EcwTeA": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "testimonial": "The quality and service is unmatched, i will come back for sure!",
-            "author": "Harry C.",
-            "image": "shopify://shop_images/imgi_17_nano-banana-pro-3160136097778a5ec523ec8e37c05ee8.png",
-            "image_caption": "",
-            "link": ""
-          }
-        },
         "testimonial_LgXYNE": {
           "type": "testimonial",
           "settings": {
@@ -446,11 +448,11 @@
       },
       "block_order": [
         "testimonial_bPiF9p",
+        "testimonial_EcwTeA",
         "testimonial_mxdJBK",
         "testimonial_Efjwt3",
         "testimonial_EybBLx",
         "testimonial_CmBRiH",
-        "testimonial_EcwTeA",
         "testimonial_LgXYNE"
       ],
       "name": "Testimonials",
