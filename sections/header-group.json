@@ -47,6 +47,19 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "menu_promotion_small_TWdAax": {
+          "type": "menu-promotion-small",
+          "settings": {
+            "dropdown_link_title": "",
+            "title": "",
+            "link_url": "shopify://collections/vintage-collection"
+          }
+        }
+      },
+      "block_order": [
+        "menu_promotion_small_TWdAax"
+      ],
       "settings": {
         "logo": "shopify://shop_images/Jouw_alineatekst.png",
         "logo_img_width_int": 290,
