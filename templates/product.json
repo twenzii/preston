@@ -375,8 +375,9 @@
           "type": "testimonial",
           "settings": {
             "star_rating": 5,
-            "testimonial": "I usually struggle to find pieces that fit just right, but Preston New York nailed it. The jeans are the perfect shape and the fabric feels durable yet soft. Highly recommend.",
+            "testimonial": "I usually struggle to find pieces that fit just right, but Preston London nailed it. The jeans are the perfect shape and the fabric feels durable yet soft. Highly recommend.",
             "author": "Laurence M.",
+            "image": "shopify://shop_images/imgi_14_nano-banana-pro-4d2d3eae1dfccd63fea7dcd9fcdc7774.png",
             "image_caption": "",
             "link": ""
           }
@@ -427,6 +428,7 @@
             "star_rating": 5,
             "testimonial": "The quality and service is unmatched, i will come back for sure!",
             "author": "Harry C.",
+            "image": "shopify://shop_images/imgi_17_nano-banana-pro-3160136097778a5ec523ec8e37c05ee8.png",
             "image_caption": "",
             "link": ""
           }
