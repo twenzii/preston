@@ -815,22 +815,22 @@
         "question_X8NNKd": {
           "type": "question",
           "settings": {
-            "title": "How can I ensure my package will arrive safely and on time?",
-            "answer": "<p>We use a reliable shipping partner and provide a track & trace code for every order. This way, you can follow your package step by step from our warehouse right to your doorstep. If you run into any issues or delays, our customer service team is available seven days a week to help.<br/><br/>All orders are insured against loss, theft, and damage.</p>"
+            "title": "Wie kann ich sicherstellen, dass mein Paket sicher und pünktlich ankommt?",
+            "answer": "<p>Wir arbeiten mit einem zuverlässigen Versandpartner zusammen und stellen für jede Bestellung einen Track & Trace-Code zur Verfügung. So können Sie Ihr Paket Schritt für Schritt von unserem Lager bis zu Ihrer Haustür verfolgen. Bei Problemen oder Verzögerungen steht Ihnen unser Kundenservice-Team sieben Tage die Woche zur Verfügung.<br/><br/>Alle Bestellungen sind gegen Verlust, Diebstahl und Beschädigung versichert.</p>"
           }
         },
         "question_QDBbez": {
           "type": "question",
           "settings": {
-            "title": "Sometimes a size turns out differently than I expect? How can I be sure it fits me properly?",
-            "answer": "<p>This item fits true to size, so we recommend selecting your usual size. If you’re unsure between two sizes, we suggest choosing the larger one. For example, if you’re debating between S and M, go for size M.<br/><br/>If your item doesn’t fit after receiving your order, no worries! You can easily exchange it within 30 days of receipt. Simply contact our customer service team for assistance.</p>"
+            "title": "Manchmal fällt eine Größe anders aus als erwartet. Wie kann ich sicher sein, dass sie mir richtig passt?",
+            "answer": "<p>Dieses Produkt fällt normal aus, daher empfehlen wir Ihnen, Ihre übliche Größe zu wählen. Wenn Sie zwischen zwei Größen schwanken, empfehlen wir Ihnen, die größere Größe zu wählen. Wenn Sie beispielsweise zwischen S und M schwanken, wählen Sie Größe M.<br/><br/>Wenn Ihr Artikel nach Erhalt Ihrer Bestellung nicht passt, machen Sie sich keine Sorgen! Sie können ihn innerhalb von 30 Tagen nach Erhalt ganz einfach umtauschen. Wenden Sie sich dazu einfach an unseren Kundenservice.</p>"
           }
         },
         "question_jJ6xCH": {
           "type": "question",
           "settings": {
-            "title": "Can I return my order? How does it work?",
-            "answer": "<p>Yes, absolutely! We offer a Money-Back Guarantee, so you can return your order within 30 days of receipt. It only takes 1 minute and one simple step. Use the <strong>Contact form</strong> to start the process and we will take care of everything.</p>"
+            "title": "Kann ich meine Bestellung zurückgeben? Wie funktioniert das?",
+            "answer": "<p>Ja, auf jeden Fall! Wir bieten eine Geld-zurück-Garantie, sodass Sie Ihre Bestellung innerhalb von 30 Tagen nach Erhalt zurücksenden können. Das dauert nur 1 Minute und erfordert einen einfachen Schritt. Nutzen Sie das Kontaktformular, um den Vorgang zu starten, und wir kümmern uns um alles Weitere.</p>"
           }
         }
       },
