@@ -207,6 +207,7 @@
     },
     "featured_collection_UtUJbc": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "NEUE ANKÜNFTE",
         "collection": "jackets",
@@ -277,6 +278,7 @@
     },
     "featured_collection_kBxwMM": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Hochwertige Herrenhemden",
         "collection": "shirts",
@@ -320,6 +322,7 @@
     },
     "featured_collection_KiEfnU": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Luxus Loafers",
         "collection": "loafers",
