@@ -92,115 +92,47 @@
         "full_width": false
       }
     },
-    "1635927863703110df": {
-      "type": "rich-text",
+    "compact_messages_VzVUAk": {
+      "type": "compact-messages",
       "blocks": {
-        "1635927863703110df-1": {
-          "type": "heading",
+        "message_HqaTMh": {
+          "type": "message",
           "settings": {
-            "title": "\"Weil Selbstvertrauen das beste Accessoire ist.“",
-            "use_h1": false
+            "heading": "1: How We Started",
+            "subheading": "Add important information here",
+            "link_url": ""
           }
         },
-        "1635927863703110df-2": {
-          "type": "text",
+        "message_JyqNxH": {
+          "type": "message",
           "settings": {
-            "text": "<p>ERA COLLECTIVE</p>",
-            "enlarge_text": false
+            "heading": "Message",
+            "subheading": "Add important information here",
+            "link_url": ""
+          }
+        },
+        "message_YatCQy": {
+          "type": "message",
+          "settings": {
+            "heading": "Message",
+            "subheading": "Add important information here",
+            "link_url": ""
           }
         }
       },
       "block_order": [
-        "1635927863703110df-1",
-        "1635927863703110df-2"
+        "message_HqaTMh",
+        "message_JyqNxH",
+        "message_YatCQy"
       ],
+      "name": "Store messages",
       "settings": {
-        "height": "small",
-        "text_alignment": "center",
-        "full_width": false,
-        "color_scheme": "default"
-      }
-    },
-    "16359278867b92de38": {
-      "type": "image-with-text",
-      "blocks": {
-        "64bcaa60-a78b-4408-9413-93788f2dd8b6": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Subheading"
-          }
-        },
-        "8963d659-f502-4f87-9a3f-d5c8c7f4bda5": {
-          "type": "heading",
-          "settings": {
-            "title": "Image with text",
-            "use_h1": false
-          }
-        },
-        "ae36be52-0e56-4829-ac5d-f47fd671d46b": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.</p>",
-            "enlarge_text": false
-          }
-        },
-        "2e5b8e45-d07b-473e-9562-15a4d3d196d5": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button text",
-            "button_link": "",
-            "button_style": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "64bcaa60-a78b-4408-9413-93788f2dd8b6",
-        "8963d659-f502-4f87-9a3f-d5c8c7f4bda5",
-        "ae36be52-0e56-4829-ac5d-f47fd671d46b",
-        "2e5b8e45-d07b-473e-9562-15a4d3d196d5"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_width": 700,
-        "image_link": "",
-        "image_position": "left",
-        "text_alignment": "left",
-        "color_scheme": "default"
-      }
-    },
-    "16359279164ff7d3f3": {
-      "type": "gallery",
-      "blocks": {
-        "16359279164ff7d3f3-0": {
-          "type": "media",
-          "settings": {
-            "enlarge_media": false,
-            "subheading": "",
-            "title": "",
-            "button_label": "Men",
-            "link": "shopify://collections/men",
-            "text_alignment": "bottom left"
-          }
-        }
-      },
-      "block_order": [
-        "16359279164ff7d3f3-0"
-      ],
-      "settings": {
-        "grid_desktop": 2,
-        "grid_mobile": "1",
-        "height": "fixed",
-        "desktop_image_height": 460,
-        "mobile_image_height": 400,
-        "title_size": 30,
-        "title_size_mobile": 22,
-        "enable_margin": true,
-        "enable_row_spacing": true,
-        "full_width": false,
-        "color_scheme": "default",
-        "enable_carousel": true,
-        "overlay_style": "full",
-        "button_style": "primary"
+        "head_not_col_bg": "#f4f6f8",
+        "head_not_col_txt1": "#171717",
+        "head_not_col_txt2": "#4c4c4b",
+        "head_not_mob_show": true,
+        "head_not_mob_text": "1: How We Started",
+        "head_not_mob_url": ""
       }
     },
     "featured_collection_UtUJbc": {
@@ -216,16 +148,6 @@
         "color_scheme": "default",
         "show_view_all": true,
         "full_width": false
-      }
-    },
-    "custom_liquid_WLzFYh": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": false,
-        "show_space": false,
-        "code": "<!-- Autumn Sale Timer -->\n<div class=\"closure-sale-timer\">\n  <h2>Black Friday Sale</h2>\n  <p>50% OFF ends today:</p>\n  <div id=\"closure-sale-countdown\" class=\"closure-sale-countdown\">\n    00:00:00:00\n  </div>\n</div>\n\n<style>\n  .closure-sale-timer {\n    font-family: Arial, sans-serif;\n    background-color: #f9f9f9;\n    border: 1px solid #e0e0e0;\n    padding: 12px 16px;\n    border-radius: 8px;\n    text-align: center;\n    max-width: 280px;\n    margin: 24px auto;\n  }\n\n  .closure-sale-timer h2 {\n    color: #b30000;\n    font-size: 24px;\n    margin: 0 0 4px 0;\n    text-transform: uppercase;\n    letter-spacing: 0.5px;\n  }\n\n  .closure-sale-timer p {\n    color: #555;\n    font-size: 14px;\n    margin: 0 0 10px 0;\n  }\n\n  .closure-sale-countdown {\n    font-size: 26px;\n    font-weight: bold;\n    color: #b30000;\n    background-color: #fff;\n    padding: 10px 18px;\n    border-radius: 6px;\n    border: 1px solid #ffcccc;\n    display: inline-block;\n    letter-spacing: 1px;\n  }\n</style>\n\n<script>\n  // Set your sale end date here (Year, Month-1, Day, Hour, Minute, Second)\n  // Example: Oct 5, 2025 at 23:59:59\n  const saleEndDate = new Date(\"2025-11-21T05:59:59\").getTime();\n\n  function updateCountdown() {\n    const now = new Date().getTime();\n    const timeLeft = saleEndDate - now;\n\n    if (timeLeft <= 0) {\n      document.getElementById(\"closure-sale-countdown\").innerHTML = \"EXPIRED\";\n      return;\n    }\n\n    const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));\n    const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n    const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));\n    const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);\n\n    document.getElementById(\"closure-sale-countdown\").innerHTML =\n      days.toString().padStart(2, \"0\") + \"d \" +\n      hours.toString().padStart(2, \"0\") + \"h \" +\n      minutes.toString().padStart(2, \"0\") + \"m \" +\n      seconds.toString().padStart(2, \"0\") + \"s\";\n  }\n\n  // Update every second\n  setInterval(updateCountdown, 1000);\n  updateCountdown();\n</script>"
       }
     },
     "countdown_timer_nHjb6c": {
@@ -387,11 +309,8 @@
     "16359276425da8ce46",
     "rich_text_aTreJG",
     "16359278676808bea5",
-    "1635927863703110df",
-    "16359278867b92de38",
-    "16359279164ff7d3f3",
+    "compact_messages_VzVUAk",
     "featured_collection_UtUJbc",
-    "custom_liquid_WLzFYh",
     "countdown_timer_nHjb6c",
     "featured_collection_kBxwMM",
     "rich_text_8HAmEC",
