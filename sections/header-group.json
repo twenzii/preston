@@ -11,40 +11,6 @@
   "type": "header",
   "name": "Header Group",
   "sections": {
-    "announcement-bar": {
-      "type": "announcement-bar",
-      "blocks": {
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": "Winterschlussverkauf | 80 % Rabatt!",
-            "show_countdown": false,
-            "hide_on_end": true,
-            "end_date": "",
-            "end_time": "",
-            "number_font": "base",
-            "countdown_separator": "box",
-            "use_custom_colors": false,
-            "bg_color": "#202020",
-            "bg_gradient": "",
-            "text_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "announcement-1"
-      ],
-      "settings": {
-        "message_font_size": 14,
-        "announcement_bar_col": "#009e60",
-        "announcement_bar_gradient": "",
-        "announcement_text_col": "#ffffff",
-        "show_social_icons": true,
-        "menu": "",
-        "enable_country_selector": true,
-        "enable_language_selector": true
-      }
-    },
     "header": {
       "type": "header",
       "blocks": {
@@ -61,7 +27,6 @@
         "menu_promotion_small_TWdAax"
       ],
       "settings": {
-        "logo": "shopify://shop_images/Jouw_alineatekst.png",
         "logo_img_width_int": 290,
         "mobile_logo_img_width_int": 165,
         "logo_h1": true,
@@ -69,7 +34,7 @@
         "enable_transparent": false,
         "transparent_color": "#ffffff",
         "menu_linklist": "main-menu",
-        "menu_layout": "underneath",
+        "menu_layout": "inline-menu-left",
         "nav_featured_link": "Sale",
         "menu_linklist_mobile": "main-menu",
         "mobile_expand_with_entire_link": false,
@@ -82,6 +47,74 @@
         "search_recommendations_menu": "",
         "icon_strategy": "icons_cart_search",
         "cart_icon": "bag"
+      }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_amYGFr": {
+          "type": "announcement",
+          "settings": {
+            "text": "<strong>30-DAY MONEY BACK GUARANTEE</strong>",
+            "show_countdown": false,
+            "hide_on_end": false,
+            "end_date": "",
+            "end_time": "",
+            "number_font": "base",
+            "countdown_separator": "box",
+            "use_custom_colors": false,
+            "bg_color": "#4a4a4a",
+            "bg_gradient": "",
+            "text_color": "#ffffff"
+          }
+        },
+        "announcement_87phYM": {
+          "type": "announcement",
+          "settings": {
+            "text": "<strong>FREE SHIPPING ACROSS THE U.S. TODAY ONLY</strong>",
+            "show_countdown": false,
+            "hide_on_end": false,
+            "end_date": "",
+            "end_time": "",
+            "number_font": "base",
+            "countdown_separator": "box",
+            "use_custom_colors": false,
+            "bg_color": "#4a4a4a",
+            "bg_gradient": "",
+            "text_color": "#ffffff"
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "<strong>SAVE OUR DREAM SALE - FINAL DAY! UP TO 80% OFF</strong>",
+            "show_countdown": false,
+            "hide_on_end": true,
+            "end_date": "",
+            "end_time": "",
+            "number_font": "base",
+            "countdown_separator": "box",
+            "use_custom_colors": false,
+            "bg_color": "#202020",
+            "bg_gradient": "",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_amYGFr",
+        "announcement_87phYM",
+        "announcement-1"
+      ],
+      "settings": {
+        "message_font_size": 14,
+        "announcement_bar_col": "#431808",
+        "announcement_bar_gradient": "",
+        "announcement_text_col": "#ffffff",
+        "show_social_icons": true,
+        "menu": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true
       }
     },
     "store-messages": {
@@ -130,8 +163,8 @@
     }
   },
   "order": [
-    "announcement-bar",
     "header",
+    "announcement-bar",
     "store-messages"
   ]
 }
