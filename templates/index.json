@@ -127,7 +127,7 @@
       ],
       "name": "Store messages",
       "settings": {
-        "head_not_col_bg": "#e1e1e1",
+        "head_not_col_bg": "#ffffff",
         "head_not_col_txt1": "#431808",
         "head_not_col_txt2": "#431808",
         "head_not_mob_show": true,
@@ -187,6 +187,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/2526085-200.png",
             "title": "Free shipping",
             "text": "<p>All orders are processed within 1-3 days and delivered by DHL.</p>",
             "button_label": "",
@@ -197,6 +198,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/3427812.png",
             "title": "money-back guarantee",
             "text": "<p>Not satisfied? You will receive your money back! You have 30 days after receiving your order to return or exchange it.</p>",
             "button_label": "",
@@ -207,6 +209,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/172972-logo-usa-free-transparent.png",
             "title": "Trusted US brand",
             "text": "<p>A reliable US brand since 1998</p>",
             "button_label": "",
