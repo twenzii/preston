@@ -66,8 +66,8 @@
         "text_MMbbeH": {
           "type": "text",
           "settings": {
-            "title": "KUNDENSERVICE",
-            "text": "<p><strong>Öffnungszeiten:</strong><br/>Montag bis Freitag: 8:00 bis 20:00 Uhr<br/>Samstag und Sonntag: 8:00 bis 17:00 Uhr<br/>E-mail: support@luneracollective.com</p>",
+            "title": "CUSTOMER SERVICE",
+            "text": "<p><strong>Opening hours:</strong><br/>Monday to Friday: 8:00 a.m. to 8:00<br/>Saturday and Sunday: 8:00 a.m. to 5:00.<br/>E-mail: onulahome@gmail.com</p>",
             "image_width": 100,
             "show_social_icons": true,
             "soc_icons_large": false,
@@ -84,8 +84,8 @@
         "text_tTaGeN": {
           "type": "text",
           "settings": {
-            "title": "ÜBER UNS",
-            "text": "<p>Era Collective wurde 1998 im Herzen Berlins gegründet. Heute ist es eine weltweit anerkannte Bekleidungsmarke, die für ihr zeitloses Design und ihre außergewöhnliche Qualität bekannt ist.</p><ul><li>26 Jahre Erfahrung</li><li>30-Tage-Geld-zurück-Garantie</li><li>Kundensupport rund um die Uhr</li></ul>",
+            "title": "ABOUT US",
+            "text": "<p>Onula was founded in 1998 in the heart of Berlin. Today, it is a globally recognized clothing brand known for its timeless designs and exceptional quality.</p><ul><li>26 years of experience</li><li>30-day money-back guarantee</li><li>24/7 customer support</li></ul>",
             "image_width": 100,
             "show_social_icons": true,
             "soc_icons_large": false,
@@ -96,7 +96,7 @@
           "type": "newsletter",
           "settings": {
             "title": "Newsletter",
-            "text": "<p>Seien Sie der Erste, der von exklusiven Angeboten und Neuheiten erfährt!</p>",
+            "text": "<p>Be the first to hear about exclusive offers and new products!</p>",
             "button_style": "secondary",
             "show_social_icons": false,
             "soc_icons_large": false

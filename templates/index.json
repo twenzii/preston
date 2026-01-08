@@ -92,49 +92,6 @@
         "full_width": false
       }
     },
-    "compact_messages_VzVUAk": {
-      "type": "compact-messages",
-      "blocks": {
-        "message_HqaTMh": {
-          "type": "message",
-          "settings": {
-            "heading": "1: How We Started",
-            "subheading": "What started as late nights and early mornings became a shared dream between a mother and her son.We set out to create pieces that help women feel confident, strong, and beautiful.",
-            "link_url": ""
-          }
-        },
-        "message_JyqNxH": {
-          "type": "message",
-          "settings": {
-            "heading": "2. When Things Changed",
-            "subheading": "Recently, orders slowed and uncertainty crept in.The future of what we built together suddenly felt fragile.",
-            "link_url": ""
-          }
-        },
-        "message_YatCQy": {
-          "type": "message",
-          "settings": {
-            "heading": "3. Moving Forward, Together",
-            "subheading": "That’s why we created the Save Our Dream Sale driven by hope, not pressure.With your support, a mother and her son can keep their dream alive.",
-            "link_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "message_HqaTMh",
-        "message_JyqNxH",
-        "message_YatCQy"
-      ],
-      "name": "Store messages",
-      "settings": {
-        "head_not_col_bg": "#ffffff",
-        "head_not_col_txt1": "#431808",
-        "head_not_col_txt2": "#431808",
-        "head_not_mob_show": true,
-        "head_not_mob_text": "1: How We Started",
-        "head_not_mob_url": ""
-      }
-    },
     "featured_collection_UtUJbc": {
       "type": "featured-collection",
       "disabled": true,
@@ -237,7 +194,6 @@
     "16359276425da8ce46",
     "rich_text_aTreJG",
     "16359278676808bea5",
-    "compact_messages_VzVUAk",
     "featured_collection_UtUJbc",
     "featured_collection_kBxwMM",
     "featured_collection_KiEfnU",
