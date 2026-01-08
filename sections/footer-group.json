@@ -74,13 +74,6 @@
             "enable_follow_on_shop": false
           }
         },
-        "menu_LWCyYM": {
-          "type": "menu",
-          "settings": {
-            "title": "Links",
-            "menu": ""
-          }
-        },
         "text_tTaGeN": {
           "type": "text",
           "settings": {
@@ -105,7 +98,6 @@
       },
       "block_order": [
         "text_MMbbeH",
-        "menu_LWCyYM",
         "text_tTaGeN",
         "1601308656020"
       ],
