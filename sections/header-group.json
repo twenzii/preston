@@ -33,6 +33,7 @@
         "enable_sticky": true,
         "enable_transparent": false,
         "transparent_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/O_1.png",
         "menu_linklist": "main-menu",
         "menu_layout": "inline-menu-left",
         "nav_featured_link": "Sale",
