@@ -327,78 +327,191 @@
         "color_scheme": "default"
       }
     },
-    "testimonials_PDHr6m": {
-      "type": "testimonials",
+    "testiminimog_cmYwRe": {
+      "type": "testiminimog",
       "blocks": {
-        "testimonial_bPiF9p": {
-          "type": "testimonial",
+        "slide_QCi49C": {
+          "type": "slide",
           "settings": {
-            "star_rating": 5,
-            "testimonial": "Normalerweise habe ich Schwierigkeiten, Kleidungsstücke zu finden, die mir perfekt passen, aber Era Collective hat es geschafft. Die Jeans hat die perfekte Passform und der Stoff fühlt sich strapazierfähig und dennoch weich an. Sehr empfehlenswert.",
-            "author": "Laurence M.",
-            "image_caption": "",
-            "link": ""
+            "media_style": "none",
+            "image": "shopify://shop_images/1_aa3f231a-5ddc-458a-b24f-7dbc02579a98.png",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>You can feel the heart behind this piece. Happy to support Onula New York</p>",
+            "author": "<p>Author</p>"
           }
         },
-        "testimonial_EcwTeA": {
-          "type": "testimonial",
+        "slide_CBQGB6": {
+          "type": "slide",
           "settings": {
-            "star_rating": 5,
-            "testimonial": "The quality and service is unmatched, i will come back for sure!",
-            "author": "Harry C.",
-            "image_caption": "",
-            "link": ""
+            "media_style": "none",
+            "image": "shopify://shop_images/3_289d8dcf-cb4d-4360-acae-43aa270603be.png",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Quality is beautiful, feels good knowing my purchase helps keep your dream alive</p>",
+            "author": "<p>Author</p>"
           }
         },
-        "testimonial_mxdJBK": {
-          "type": "testimonial",
+        "slide_37RMXt": {
+          "type": "slide",
           "settings": {
-            "star_rating": 5,
-            "testimonial": "Das Hemd, das ich bestellt habe, ist sowohl schick als auch bequem. Der Stoff ist atmungsaktiv und die Passform ist perfekt. Es gehört jetzt zu meinen Lieblingsstücken, sowohl für geschäftliche als auch für Freizeitkleidung.",
-            "author": "Alex H.",
-            "image_caption": "",
-            "link": ""
+            "media_style": "none",
+            "image": "shopify://shop_images/2_114c2ef3-553e-4da2-84bc-268bba12fc7d.png",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Exacly the style i hoped for. proud to support your dream</p>",
+            "author": "<p>Author</p>"
           }
         },
-        "testimonial_Efjwt3": {
-          "type": "testimonial",
+        "slide_Jd3Ldn": {
+          "type": "slide",
           "settings": {
-            "star_rating": 5,
-            "testimonial": "Mein Lieblingsgeschäft!",
-            "author": "Harry",
-            "image_caption": "",
-            "link": ""
+            "media_style": "none",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>This brand truly deserves to rise again. lovely craftmanship</p>",
+            "author": "<p>Author</p>"
           }
         },
-        "testimonial_EybBLx": {
-          "type": "testimonial",
+        "slide_hpKNEL": {
+          "type": "slide",
           "settings": {
-            "star_rating": 5,
-            "testimonial": "Das Poloshirt ist bequem, schmeichelt der Figur und fühlt sich hochwertig an. Ich werde auf jeden Fall wieder bei Preston London einkaufen.",
-            "author": "Willson P.",
-            "image_caption": "",
-            "link": ""
+            "media_style": "none",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>So glad i found you two. My purchase feels meaningful.</p>",
+            "author": "<p>Author</p>"
+          }
+        },
+        "slide_ULwLKG": {
+          "type": "slide",
+          "settings": {
+            "media_style": "none",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Great Piece and an even greater story. Wishing you both the very best</p>",
+            "author": "<p>Author</p>"
           }
         }
       },
       "block_order": [
-        "testimonial_bPiF9p",
-        "testimonial_EcwTeA",
-        "testimonial_mxdJBK",
-        "testimonial_Efjwt3",
-        "testimonial_EybBLx"
+        "slide_QCi49C",
+        "slide_CBQGB6",
+        "slide_37RMXt",
+        "slide_Jd3Ldn",
+        "slide_hpKNEL",
+        "slide_ULwLKG"
       ],
-      "name": "Testimonials",
+      "name": "SS - Testimonials #12",
       "settings": {
-        "title": "Schließen Sie sich über 856k+ zufriedenen Kunden an",
-        "layout": "image-right",
-        "text_caps": false,
-        "quote_text_size": 25,
-        "quote_text_size_mobile": 16,
-        "image_shape": "square",
-        "color_scheme": "default",
-        "autoplay": true,
-        "autoplay_speed": 5
+        "heading": "<h2>Loved by everyone, everywhere. Don't miss out.</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 30,
+        "heading_size_mobile": 22,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 30,
+        "sub_heading_size_mobile": 22,
+        "sub_heading_height": 130,
+        "sub_heading_mt": 12,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "slider_view": 5.4,
+        "slider_view_mobile": 1.6,
+        "slider_gap": 28,
+        "slider_gap_mobile": 20,
+        "slider_mt": 20,
+        "autoplay": false,
+        "autoplay_delay": 5,
+        "card_padding_vertical": 20,
+        "card_padding_vertical_mobile": 16,
+        "card_padding_horizontal": 20,
+        "card_padding_horizontal_mobile": 16,
+        "card_radius": 20,
+        "card_border_thickness": 1,
+        "card_shadow": false,
+        "media_radius": 20,
+        "media_border_thickness": 0,
+        "media_ratio": "square",
+        "media_ratio_mobile": "square",
+        "content_padding_vertical": 0,
+        "content_padding_vertical_mobile": 0,
+        "content_padding_horizontal": 0,
+        "content_padding_horizontal_mobile": 0,
+        "hide_content": false,
+        "stars_size": 16,
+        "stars_mt": 12,
+        "stars_align": "center",
+        "stars_align_mobile": "center",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 12,
+        "text_align": "center",
+        "text_align_mobile": "center",
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "author_mt": 12,
+        "author_align": "center",
+        "author_align_mobile": "center",
+        "navigation_mt": 40,
+        "navigation_gap": 20,
+        "navigation_align": "center",
+        "navigation_align_mobile": "center",
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 10,
+        "dots_size_mobile": 10,
+        "dots_show_desktop": false,
+        "dots_show_mobile": true,
+        "btn_icon_size": 50,
+        "btn_icon_size_mobile": 40,
+        "card_bg_color": "#FFFFFF",
+        "card_bg_gradient": "",
+        "card_border_color": "#431808",
+        "card_shadow_color": "#431808",
+        "media_border_color": "#431808",
+        "stars_color": "#431808",
+        "text_color": "#431808",
+        "author_color": "#431808",
+        "video_icon_bg_color": "#FFFFFF",
+        "video_icon_color": "#000000",
+        "arrow_color": "#ffffff",
+        "arrow_hover_color": "#ffffff",
+        "dots_color": "#ffffff",
+        "heading_color": "#431808",
+        "sub_heading_color": "#431808",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#431808",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "multi_column_gGQtnr": {
@@ -810,7 +923,7 @@
     "17593303363cb189ed",
     "slideshow_3in3te",
     "rich_text_73UHkK",
-    "testimonials_PDHr6m",
+    "testiminimog_cmYwRe",
     "multi_column_gGQtnr",
     "slideshow_Pg69VR",
     "ss_scrolling_images_CJD9VW",
