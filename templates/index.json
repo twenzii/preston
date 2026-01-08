@@ -99,23 +99,23 @@
           "type": "message",
           "settings": {
             "heading": "1: How We Started",
-            "subheading": "Add important information here",
+            "subheading": "What started as late nights and early mornings became a shared dream between a mother and her son.We set out to create pieces that help women feel confident, strong, and beautiful.",
             "link_url": ""
           }
         },
         "message_JyqNxH": {
           "type": "message",
           "settings": {
-            "heading": "Message",
-            "subheading": "Add important information here",
+            "heading": "2. When Things Changed",
+            "subheading": "Recently, orders slowed and uncertainty crept in.The future of what we built together suddenly felt fragile.",
             "link_url": ""
           }
         },
         "message_YatCQy": {
           "type": "message",
           "settings": {
-            "heading": "Message",
-            "subheading": "Add important information here",
+            "heading": "3. Moving Forward, Together",
+            "subheading": "That’s why we created the Save Our Dream Sale driven by hope, not pressure.With your support, a mother and her son can keep their dream alive.",
             "link_url": ""
           }
         }
