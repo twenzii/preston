@@ -493,7 +493,7 @@
     "quick_search_show_price": true,
     "quick_search_search_meta": false,
     "animations_enabled_desktop": true,
-    "animations_disabled_first_section": false,
+    "animations_disabled_first_section": true,
     "cart_type": "drawer",
     "free_shipping_bar_col_under": "#202223",
     "image_quality": "1",
