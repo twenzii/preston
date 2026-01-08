@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/ChatGPT_Image_Jan_8_2026_01_11_52_PM.png",
             "slide_link": "",
             "subheading": "",
-            "title": "Save Our Dream",
+            "title": "",
             "heading_max_width": 15,
             "title_size": 56,
             "title_size_mobile": 26,
@@ -56,14 +56,14 @@
         "heading_NDF4rp": {
           "type": "heading",
           "settings": {
-            "title": "Autumn Sale Ends Today!",
+            "title": "We’re Onula and you’re helping us keep our dream alive.",
             "use_h1": true
           }
         },
         "subheading_nm74Aq": {
           "type": "subheading",
           "settings": {
-            "subheading": "50% off everything"
+            "subheading": "This shop began as a dream my son ONU and I built together late nights, early mornings, and a lot of hope.Times have been tough, and we’re doing everything we can to keep that dream alive.The “Save Our Dream” Sale isn’t about urgency.It’s about love, survival, and one more chance.Every order truly means the world to us.Thank you for supporting a mother and son’s dream."
           }
         }
       },
@@ -71,7 +71,6 @@
         "heading_NDF4rp",
         "subheading_nm74Aq"
       ],
-      "disabled": true,
       "settings": {
         "height": "small",
         "text_alignment": "center",
