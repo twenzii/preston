@@ -94,10 +94,9 @@
     },
     "featured_collection_UtUJbc": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "title": "NEUE ANKÜNFTE",
-        "collection": "jackets",
+        "title": "Colorful Jackets",
+        "collection": "colorful-jackets",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
