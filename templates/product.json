@@ -88,7 +88,7 @@
           "settings": {
             "show_single": false,
             "selector_style": "listed",
-            "dynamic_availability": "show",
+            "dynamic_availability": "off",
             "enable_size_chart": false,
             "size_chart_label": "Size guide",
             "size_chart_variant": "Size",
