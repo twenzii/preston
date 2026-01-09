@@ -119,7 +119,7 @@
         "accordion_zTUgVE": {
           "type": "accordion",
           "settings": {
-            "title": "Beschrijving",
+            "title": "DESCRIPTION",
             "icon": "award",
             "content": "",
             "page": "",
@@ -131,7 +131,7 @@
         "accordion_GcC3hx": {
           "type": "accordion",
           "settings": {
-            "title": "Free Shipping",
+            "title": "FREE DELIVERY",
             "icon": "truck",
             "content": "<p>Enjoy free shipping across the U.S. during our sale.<br/><br/>All orders are shipped with UPS, and you’ll receive a tracking number within one business day to follow your delivery.<br/><br/>We take pride in reliable service — and during our sale, shipping is completely free within the United States.</p>",
             "page": "",
@@ -339,7 +339,7 @@
             "controls": false,
             "stars_count": 5,
             "text": "<p>You can feel the heart behind this piece. Happy to support Onula New York</p>",
-            "author": "<p>Author</p>"
+            "author": "<p>Megan Whitfield</p>"
           }
         },
         "slide_CBQGB6": {
@@ -351,7 +351,7 @@
             "controls": false,
             "stars_count": 5,
             "text": "<p>Quality is beautiful, feels good knowing my purchase helps keep your dream alive</p>",
-            "author": "<p>Author</p>"
+            "author": "<p>Patricia Monroe</p>"
           }
         },
         "slide_37RMXt": {
@@ -363,7 +363,7 @@
             "controls": false,
             "stars_count": 5,
             "text": "<p>Exacly the style i hoped for. proud to support your dream</p>",
-            "author": "<p>Author</p>"
+            "author": "<p>Karen Turner</p>"
           }
         },
         "slide_Jd3Ldn": {
@@ -374,7 +374,7 @@
             "controls": false,
             "stars_count": 5,
             "text": "<p>This brand truly deserves to rise again. lovely craftmanship</p>",
-            "author": "<p>Author</p>"
+            "author": "<p>Rebecca Caldwell</p>"
           }
         },
         "slide_hpKNEL": {
@@ -385,7 +385,7 @@
             "controls": false,
             "stars_count": 5,
             "text": "<p>So glad i found you two. My purchase feels meaningful.</p>",
-            "author": "<p>Author</p>"
+            "author": "<p>Emily Portsmo</p>"
           }
         },
         "slide_ULwLKG": {
@@ -396,7 +396,7 @@
             "controls": false,
             "stars_count": 5,
             "text": "<p>Great Piece and an even greater story. Wishing you both the very best</p>",
-            "author": "<p>Author</p>"
+            "author": "<p>Sarah Collins</p>"
           }
         }
       },
@@ -514,6 +514,89 @@
         "lazy": true
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "image_with_text_gdE46C": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Ke37jr": {
+          "type": "heading",
+          "settings": {
+            "title": "SAVE OUR DREAM SALE",
+            "use_h1": false
+          }
+        },
+        "text_EeB3Ka": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This little brand began as a dream my son Porter and I built together.<br/><br/>Late nights, early mornings, and a shared wish to create pieces that help women feel confident and beautiful.</p><p>Like many small businesses, we’ve faced challenges lately. Orders slowed, and for a moment, it felt like the dream we worked so hard for might slip away.</p><p>That’s why we created the <strong>Save Our Dream Sale, </strong> not out of pressure, but out of hope.<br/><br/>Hope that with your support, we can continue doing what we love.</p><p>If you choose to support us, please know it truly matters. You’re helping a mother and her son keep something alive that means everything to us.</p><p>Every order gives us strength. Every message gives us hope.</p><p>From the bottom of my heart,<br/><br/><strong>Thank you for being here.</strong></p><p>Onula ❤️</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ke37jr",
+        "text_EeB3Ka"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_Jan_8_2026_01_11_52_PM.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "center",
+        "color_scheme": "default"
+      }
+    },
+    "collapsible_tabs_Y8UnNj": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_nCwe8V": {
+          "type": "question",
+          "settings": {
+            "title": "How much are the shipping costs? Do I have to pay customs or import duties?",
+            "answer": "<p>All orders are shipped free of charge (today only) and there is no minimum order value. We do not charge any additional fees after the order has been placed.</p>"
+          }
+        },
+        "question_X8NNKd": {
+          "type": "question",
+          "settings": {
+            "title": "How can I ensure that my package arrives safely and on time?",
+            "answer": "<p>We work with a reliable shipping partner and provide a track & trace code for every order. This allows you to track your package step by step from our warehouse to your doorstep. If you encounter any problems or delays, our customer service team is available seven days a week to assist you.<br/><br/>All orders are insured against loss, theft, and damage.</p>"
+          }
+        },
+        "question_QDBbez": {
+          "type": "question",
+          "settings": {
+            "title": "Sometimes a size turns out differently than expected. How can I be sure that it will fit me properly?",
+            "answer": "<p>This product fits true to size, so we recommend choosing your usual size. If you are between sizes, we recommend choosing the larger size. For example, if you are between S and M, choose size M.<br/><br/>If your item does not fit after receiving your order, don't worry! You can easily exchange it within 30 days of receipt. Simply contact our customer service team.</p>"
+          }
+        },
+        "question_jJ6xCH": {
+          "type": "question",
+          "settings": {
+            "title": "Can I return my order? How does that work?",
+            "answer": "<p>Yes, absolutely! We offer a money-back guarantee, so you can return your order within 30 days of receipt. It only takes 1 minute and requires one simple step. Use the contact form to start the process, and we'll take care of the rest.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_nCwe8V",
+        "question_X8NNKd",
+        "question_QDBbez",
+        "question_jJ6xCH"
+      ],
+      "name": "Collapsible tabs",
+      "settings": {
+        "title": "COMBINE AND GET UP TO 10% EXTRA OFF"
+      }
+    },
     "multi_column_gGQtnr": {
       "type": "multi-column",
       "blocks": {
@@ -521,8 +604,9 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Kostenloser Versand",
-            "text": "<p>Alle Bestellungen werden innerhalb von 1-3 Tagen bearbeitet und mit DHL geliefert.</p>",
+            "image": "shopify://shop_images/2526085-200.png",
+            "title": "Free Delivery",
+            "text": "<p>All orders are processed within 1-3 days and delivered by DHL.</p>",
             "button_label": "",
             "link": ""
           }
@@ -531,8 +615,9 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Geld-zurück-Garantie",
-            "text": "<p>Nicht zufrieden? Sie erhalten Ihr Geld zurück! Sie haben nach Erhalt Ihrer Bestellung 30 Tage Zeit, diese zurückzugeben oder umzutauschen.</p>",
+            "image": "shopify://shop_images/3427812_1.png",
+            "title": "money-back guarantee",
+            "text": "<p>Not satisfied? You will receive your money back! You have 30 days after receiving your order to return or exchange it.</p>",
             "button_label": "",
             "link": ""
           }
@@ -541,8 +626,9 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "title": "Vertrauenswürdige deutsche Marke",
-            "text": "<p>Eine zuverlässige deutsche Marke seit 1998</p>",
+            "image": "shopify://shop_images/172972-logo-usa-free-transparent.png",
+            "title": "Trusted US brand",
+            "text": "<p>A reliable US brand since 1998</p>",
             "button_label": "",
             "link": ""
           }
@@ -562,360 +648,6 @@
         "button_style": "primary",
         "color_scheme": "default"
       }
-    },
-    "slideshow_Pg69VR": {
-      "type": "slideshow",
-      "blocks": {
-        "image_EcW6eR": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "",
-            "title": "",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "",
-            "enlarge_text": true,
-            "button_label_1": "",
-            "button_url_1": "",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        },
-        "image_DMgytb": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "",
-            "title": "",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "",
-            "enlarge_text": true,
-            "button_label_1": "",
-            "button_url_1": "",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        },
-        "image_QAjTNW": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "",
-            "title": "",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "",
-            "enlarge_text": true,
-            "button_label_1": "",
-            "button_url_1": "",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        },
-        "image_nqHnrJ": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "",
-            "title": "",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "",
-            "enlarge_text": true,
-            "button_label_1": "",
-            "button_url_1": "",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        },
-        "image_dPkMNV": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "",
-            "title": "",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "",
-            "enlarge_text": true,
-            "button_label_1": "",
-            "button_url_1": "",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        },
-        "image_RNzeLM": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "",
-            "title": "",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "",
-            "enlarge_text": true,
-            "button_label_1": "",
-            "button_url_1": "",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        },
-        "image_ccPg4q": {
-          "type": "image",
-          "settings": {
-            "slide_link": "",
-            "subheading": "",
-            "title": "",
-            "heading_max_width": 15,
-            "title_size": 84,
-            "title_size_mobile": 46,
-            "use_h1": false,
-            "text": "",
-            "enlarge_text": true,
-            "button_label_1": "",
-            "button_url_1": "",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "image_EcW6eR",
-        "image_DMgytb",
-        "image_QAjTNW",
-        "image_nqHnrJ",
-        "image_dPkMNV",
-        "image_RNzeLM",
-        "image_ccPg4q"
-      ],
-      "disabled": true,
-      "name": "Slideshow",
-      "settings": {
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 460,
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "shadow",
-        "transition": "fade",
-        "navigation": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "accessibility_info": ""
-      }
-    },
-    "ss_scrolling_images_CJD9VW": {
-      "type": "ss-scrolling-images",
-      "blocks": {
-        "image_bypzCV": {
-          "type": "image",
-          "settings": {
-            "url": ""
-          }
-        },
-        "image_4wDhTM": {
-          "type": "image",
-          "settings": {
-            "url": ""
-          }
-        },
-        "image_HzTfrH": {
-          "type": "image",
-          "settings": {
-            "url": ""
-          }
-        },
-        "image_fUfFRy": {
-          "type": "image",
-          "settings": {
-            "url": ""
-          }
-        },
-        "image_JCMQFy": {
-          "type": "image",
-          "settings": {
-            "url": ""
-          }
-        },
-        "image_fxM47F": {
-          "type": "image",
-          "settings": {
-            "url": ""
-          }
-        },
-        "image_NN8maR": {
-          "type": "image",
-          "settings": {
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_bypzCV",
-        "image_4wDhTM",
-        "image_HzTfrH",
-        "image_fUfFRy",
-        "image_JCMQFy",
-        "image_fxM47F",
-        "image_NN8maR"
-      ],
-      "disabled": true,
-      "name": "SS - Scrolling Images",
-      "settings": {
-        "heading": "<h2>Join 856k+ Happy Customers</h2>",
-        "heading_custom": true,
-        "heading_font": "arimo_n4",
-        "heading_size": 26,
-        "heading_height": 130,
-        "heading_align": "center",
-        "slider_speed": 40,
-        "slider_gap": 10,
-        "slider_gap_mobile": 10,
-        "slider_mt": 20,
-        "slider_direction": "left",
-        "pause_hover": false,
-        "image_width_desktop": 300,
-        "image_width_mobile": 120,
-        "image_height_desktop": 400,
-        "image_height_mobile": 200,
-        "image_radius": 10,
-        "use_content": false,
-        "content_position": "center",
-        "content_max_width": 350,
-        "content_max_width_mobile": 180,
-        "content_padding_vertical": 20,
-        "content_padding_horizontal": 30,
-        "content_distance": 60,
-        "content_radius": 10,
-        "content_border_thickness": 0,
-        "use_shadow": true,
-        "text": "<h6><strong>Join 856k Happy Customers</strong></h6>",
-        "text_custom": false,
-        "text_font": "arimo_n4",
-        "text_size": 10,
-        "text_height": 130,
-        "heading_color": "#000000",
-        "content_bg": "#ffffff",
-        "content_border_color": "#000000",
-        "text_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "disabled": true,
-      "settings": {
-        "title": "You may also like",
-        "show_vendor": false,
-        "grid": 4
-      }
-    },
-    "image_with_text_gdE46C": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Ke37jr": {
-          "type": "heading",
-          "settings": {
-            "title": "Geld-zurück-Garantie",
-            "use_h1": false
-          }
-        },
-        "text_EeB3Ka": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Wir lieben unsere Produkte und sind sicher, dass Sie sie genauso lieben werden wie wir! Deshalb bieten wir Ihnen eine risikofreie 30-Tage-Geld-zurück-Garantie. Wenn Sie mit unserem Produkt nicht zufrieden sind, erhalten Sie Ihr Geld zurück.</p>",
-            "enlarge_text": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ke37jr",
-        "text_EeB3Ka"
-      ],
-      "name": "Image with text",
-      "settings": {
-        "image_width": 700,
-        "image_link": "",
-        "image_position": "left",
-        "text_alignment": "center",
-        "color_scheme": "default"
-      }
-    },
-    "collapsible_tabs_Y8UnNj": {
-      "type": "collapsible-tabs",
-      "blocks": {
-        "question_nCwe8V": {
-          "type": "question",
-          "settings": {
-            "title": "Wie hoch sind die Versandkosten? Muss ich Zoll- oder Einfuhrgebühren bezahlen?",
-            "answer": "<p>Alle Bestellungen werden kostenlos versandt (nur heute) und es gibt keinen Mindestbestellwert.<br/><br/>Bei uns fallen nach der Bestellung keine zusätzlichen Gebühren an.</p>"
-          }
-        },
-        "question_X8NNKd": {
-          "type": "question",
-          "settings": {
-            "title": "Wie kann ich sicherstellen, dass mein Paket sicher und pünktlich ankommt?",
-            "answer": "<p>Wir arbeiten mit einem zuverlässigen Versandpartner zusammen und stellen für jede Bestellung einen Track & Trace-Code zur Verfügung. So können Sie Ihr Paket Schritt für Schritt von unserem Lager bis zu Ihrer Haustür verfolgen. Bei Problemen oder Verzögerungen steht Ihnen unser Kundenservice-Team sieben Tage die Woche zur Verfügung.<br/><br/>Alle Bestellungen sind gegen Verlust, Diebstahl und Beschädigung versichert.</p>"
-          }
-        },
-        "question_QDBbez": {
-          "type": "question",
-          "settings": {
-            "title": "Manchmal fällt eine Größe anders aus als erwartet. Wie kann ich sicher sein, dass sie mir richtig passt?",
-            "answer": "<p>Dieses Produkt fällt normal aus, daher empfehlen wir Ihnen, Ihre übliche Größe zu wählen. Wenn Sie zwischen zwei Größen schwanken, empfehlen wir Ihnen, die größere Größe zu wählen. Wenn Sie beispielsweise zwischen S und M schwanken, wählen Sie Größe M.<br/><br/>Wenn Ihr Artikel nach Erhalt Ihrer Bestellung nicht passt, machen Sie sich keine Sorgen! Sie können ihn innerhalb von 30 Tagen nach Erhalt ganz einfach umtauschen. Wenden Sie sich dazu einfach an unseren Kundenservice.</p>"
-          }
-        },
-        "question_jJ6xCH": {
-          "type": "question",
-          "settings": {
-            "title": "Kann ich meine Bestellung zurückgeben? Wie funktioniert das?",
-            "answer": "<p>Ja, auf jeden Fall! Wir bieten eine Geld-zurück-Garantie, sodass Sie Ihre Bestellung innerhalb von 30 Tagen nach Erhalt zurücksenden können. Das dauert nur 1 Minute und erfordert einen einfachen Schritt. Nutzen Sie das Kontaktformular, um den Vorgang zu starten, und wir kümmern uns um alles Weitere.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_nCwe8V",
-        "question_X8NNKd",
-        "question_QDBbez",
-        "question_jJ6xCH"
-      ],
-      "name": "Collapsible tabs",
-      "settings": {
-        "title": "FAQ"
-      }
     }
   },
   "order": [
@@ -924,11 +656,9 @@
     "slideshow_3in3te",
     "rich_text_73UHkK",
     "testiminimog_cmYwRe",
-    "multi_column_gGQtnr",
-    "slideshow_Pg69VR",
-    "ss_scrolling_images_CJD9VW",
     "related-products",
     "image_with_text_gdE46C",
-    "collapsible_tabs_Y8UnNj"
+    "collapsible_tabs_Y8UnNj",
+    "multi_column_gGQtnr"
   ]
 }
