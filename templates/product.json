@@ -26,7 +26,7 @@
           "type": "price",
           "settings": {
             "show_tax_and_shipping": false,
-            "enable_product_reviews_by_price": false
+            "enable_product_reviews_by_price": true
           }
         },
         "divider_TWXdcY": {
