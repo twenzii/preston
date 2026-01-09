@@ -46,7 +46,7 @@
             "uspgap": 10,
             "usp-img": "shopify://shop_images/679720_07fec17b-f005-4566-b965-018e6e61ae97.png",
             "uspimgsize": 16,
-            "usp-text": "<strong>Only Today Free Shipping</strong> With Track & Trace",
+            "usp-text": "<strong>Only Today Free Shipping With Track & Trace</strong>",
             "uspclr": "#431808",
             "usptxtsize": 14
           }
@@ -62,7 +62,7 @@
             "uspgap": 10,
             "usp-img": "shopify://shop_images/3427812_1.png",
             "uspimgsize": 16,
-            "usp-text": "30-Day <strong>Money-Back Guarantee</strong>",
+            "usp-text": "<strong>30-Day Money-Back Guarantee</strong>",
             "uspclr": "#431808",
             "usptxtsize": 14
           }
@@ -78,7 +78,7 @@
             "uspgap": 10,
             "usp-img": "shopify://shop_images/2459628_21c6c4a7-5ffb-446c-b2b2-ef1091821aee.png",
             "uspimgsize": 16,
-            "usp-text": "Easy exchange",
+            "usp-text": "<strong>Easy exchange</strong>",
             "uspclr": "#431808",
             "usptxtsize": 14
           }
