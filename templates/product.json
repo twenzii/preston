@@ -15,7 +15,7 @@
         "trustpilot_rating_zbRJpj": {
           "type": "trustpilot-rating",
           "settings": {
-            "text": "4,7 (843 Bewertungen)"
+            "text": "4.7 (843 reviews)"
           }
         },
         "title": {
@@ -26,7 +26,7 @@
           "type": "price",
           "settings": {
             "show_tax_and_shipping": false,
-            "enable_product_reviews_by_price": true
+            "enable_product_reviews_by_price": false
           }
         },
         "divider_TWXdcY": {
