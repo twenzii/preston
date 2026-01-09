@@ -116,6 +116,13 @@
             "content": "Now is the time to shop your favourite items at irresistible prices. As long as stocks last!"
           }
         },
+        "custom_liquid_b6LQhF": {
+          "type": "custom-liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"toggle-content\" id=\"tab-size-chart-mobile\" style=\"display: block;\"><div class=\"cc-fitfinder\">\n  <h3>Find Your Perfect Size</h3>\n  <p class=\"cc-sub\">Enter your height and weight for a quick size recommendation.</p>\n\n  <div class=\"cc-grid\">\n    <label class=\"cc-field\">\n      <span>Height (cm)</span>\n      <input id=\"ccHeight\" type=\"number\" inputmode=\"numeric\" placeholder=\"e.g. 170\" min=\"120\" max=\"220\">\n    </label>\n\n    <label class=\"cc-field\">\n      <span>Weight (kg)</span>\n      <input id=\"ccWeight\" type=\"number\" inputmode=\"numeric\" placeholder=\"e.g. 65\" min=\"30\" max=\"200\">\n    </label>\n\n    <button class=\"cc-btn\" id=\"ccCalcBtn\" type=\"button\">Get My Size</button>\n  </div>\n\n  <div class=\"cc-result\" id=\"ccResult\" style=\"display:none;\">\n    <div class=\"cc-badge\" id=\"ccSizeBadge\">Recommended Size: M</div>\n    <p class=\"cc-note\" id=\"ccNoteText\"></p>\n    <p class=\"cc-small\" id=\"ccWhyText\"></p>\n  </div>\n\n  <p class=\"cc-disclaimer\">\n    *This is a quick estimate based on height and weight. Fit can vary by body shape and preference.\n  </p>\n</div>\n\n<style>\n  .cc-fitfinder{\n    border:1px solid #eaeaea;\n    border-radius:14px;\n    padding:16px;\n    margin:14px 0 20px;\n  }\n  .cc-fitfinder h3{ margin:0 0 6px; font-size:20px; }\n  .cc-sub{ margin:0 0 14px; color:#666; font-size:14px; }\n\n  .cc-grid{\n    display:grid;\n    grid-template-columns: 1fr 1fr;\n    gap:10px;\n    align-items:end;\n  }\n\n  .cc-field span{\n    display:block;\n    font-size:13px;\n    color:#555;\n    margin:0 0 6px;\n  }\n  .cc-field input{\n    width:100%;\n    padding:12px 12px;\n    border:1px solid #ddd;\n    border-radius:10px;\n    font-size:14px;\n    outline:none;\n    background:#fff;\n    height:44px;\n  }\n  .cc-field input:focus{ border-color:#bbb; }\n\n  .cc-btn{\n    padding:12px 14px;\n    border:none;\n    border-radius:10px;\n    cursor:pointer;\n    font-size:14px;\n    font-weight:700;\n    background:#111;\n    color:#fff;\n    height:44px;\n    white-space:nowrap;\n    grid-column: 1 / -1;\n  }\n\n  .cc-result{\n    margin-top:14px;\n    padding:12px;\n    border-radius:12px;\n    background:#fafafa;\n    border:1px solid #eee;\n  }\n  .cc-badge{\n    display:inline-block;\n    padding:8px 12px;\n    border-radius:999px;\n    background:#111;\n    color:#fff;\n    font-weight:800;\n    font-size:14px;\n    margin-bottom:8px;\n  }\n  .cc-note{ margin:0 0 6px; color:#333; font-size:14px; }\n  .cc-small{ margin:0; color:#666; font-size:13px; line-height:1.35; }\n  .cc-disclaimer{ margin:12px 0 0; color:#888; font-size:12px; }\n\n  @media (max-width: 749px){\n    .cc-grid{ grid-template-columns: 1fr; }\n    .cc-btn{ width:100%; }\n  }\n</style>\n\n<script>\n(function(){\n  const btn = document.getElementById(\"ccCalcBtn\");\n  const hEl = document.getElementById(\"ccHeight\");\n  const wEl = document.getElementById(\"ccWeight\");\n\n  const result = document.getElementById(\"ccResult\");\n  const badge  = document.getElementById(\"ccSizeBadge\");\n  const note   = document.getElementById(\"ccNoteText\");\n  const why    = document.getElementById(\"ccWhyText\");\n\n  if(!btn) return;\n\n  const clamp = (v,min,max)=>Math.max(min,Math.min(max,v));\n\n  function recommendSizeFromBMI(heightCm, weightKg){\n    const h = heightCm / 100;\n    const bmi = weightKg / (h*h);\n\n    // BMI -> size mapping (EDIT THESE IF NEEDED)\n    if (bmi < 19.5) return { size:\"XS\", bmi };\n    if (bmi < 22.0) return { size:\"S\",  bmi };\n    if (bmi < 25.0) return { size:\"M\",  bmi };\n    if (bmi < 28.5) return { size:\"L\",  bmi };\n    if (bmi < 32.0) return { size:\"XL\", bmi };\n    if (bmi < 35.5) return { size:\"2XL\",bmi };\n    return { size:\"3XL (XXXL)\", bmi };\n  }\n\n  btn.addEventListener(\"click\", function(){\n    const height = parseFloat(hEl.value);\n    const weight = parseFloat(wEl.value);\n\n    if(!height || !weight){\n      result.style.display = \"block\";\n      badge.textContent = \"Please enter height + weight\";\n      note.textContent = \"Add your height (cm) and weight (kg) to get a recommendation.\";\n      why.textContent = \"\";\n      return;\n    }\n\n    const heightC = clamp(height, 120, 220);\n    const weightC = clamp(weight, 30, 200);\n\n    const rec = recommendSizeFromBMI(heightC, weightC);\n\n    result.style.display = \"block\";\n    badge.textContent = \"Recommended Size: \" + rec.size;\n    note.textContent = \"This is a quick estimate based on height and weight.\";\n    why.textContent = \"Height: \" + heightC + \" cm • Weight: \" + weightC + \" kg • BMI: \" + rec.bmi.toFixed(1) + \".\";\n  });\n})();\n</script>\n</div>",
+            "show_in_quickbuy": false
+          }
+        },
         "accordion_zTUgVE": {
           "type": "accordion",
           "settings": {
@@ -187,6 +194,7 @@
         "stock_alert_BqhHqW",
         "buy-buttons",
         "note_JrVj6k",
+        "custom_liquid_b6LQhF",
         "accordion_zTUgVE",
         "accordion_GcC3hx",
         "accordion_fqEQny",
@@ -484,7 +492,7 @@
         "dots_show_mobile": true,
         "btn_icon_size": 50,
         "btn_icon_size_mobile": 40,
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_bg_gradient": "",
         "card_border_color": "#431808",
         "card_shadow_color": "#431808",
@@ -492,7 +500,7 @@
         "stars_color": "#431808",
         "text_color": "#431808",
         "author_color": "#431808",
-        "video_icon_bg_color": "#FFFFFF",
+        "video_icon_bg_color": "#ffffff",
         "video_icon_color": "#000000",
         "arrow_color": "#ffffff",
         "arrow_hover_color": "#ffffff",
