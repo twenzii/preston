@@ -63,6 +63,13 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "menu_XkFpfH": {
+          "type": "menu",
+          "settings": {
+            "title": "ONULA HOME",
+            "menu": "customer-account-main-menu"
+          }
+        },
         "text_MMbbeH": {
           "type": "text",
           "settings": {
@@ -97,6 +104,7 @@
         }
       },
       "block_order": [
+        "menu_XkFpfH",
         "text_MMbbeH",
         "text_tTaGeN",
         "1601308656020"

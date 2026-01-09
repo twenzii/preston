@@ -487,6 +487,7 @@
     "swatch_picker_image_size": 70,
     "enable_filter_swatches": false,
     "filter_swatch_layout": "one-column",
+    "prod_thumb_options_disable_unavailable": true,
     "show_search_suggestions": true,
     "enable_quick_header_search": true,
     "quick_search_show_vendor": false,
