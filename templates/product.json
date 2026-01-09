@@ -517,7 +517,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "title": "You may also like",
+        "title": "COMBINE AND GET UP TO 25% EXTRA OFF",
         "show_vendor": false,
         "grid": 4
       }
@@ -594,7 +594,7 @@
       ],
       "name": "Collapsible tabs",
       "settings": {
-        "title": "COMBINE AND GET UP TO 10% EXTRA OFF"
+        "title": "Frequently Asked Questions:"
       }
     },
     "multi_column_gGQtnr": {
